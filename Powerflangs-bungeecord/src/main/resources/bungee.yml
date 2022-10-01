@@ -1,0 +1,3 @@
+name: Powerflangs
+version: '${project.version}'
+main: flangrys.powerflangs.PowerflangsBungeeCord

@@ -1,0 +1,5 @@
+name: Powerflangs
+version: '${project.version}'
+main: flangrys.powerflangs.PowerflangsBukkit
+authors: [ Flangrys ]
+website: flangscom.herokuapp.com
